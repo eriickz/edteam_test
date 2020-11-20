@@ -1,5 +1,12 @@
 {
-    "cursos": [
-        { "id": 1, "title": "React.js", "description": "", "price": "$99.99", "status": 1 }
-    ]
+  "courses": [
+    {
+      "id": 1,
+      "title": "React.js",
+      "poster": "/reactjs",
+      "description": "Curso completo desde cero.",
+      "price": "99.97",
+      "status": true
+    }
+  ]
 }

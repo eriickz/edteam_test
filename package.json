@@ -2,11 +2,17 @@
   "name": "edteam_test",
   "version": "0.1.0",
   "private": true,
+  "author": "eriickz",
+  "proxy": "http://localhost:3000",
   "dependencies": {
     "axios": "^0.21.0",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper": "^1.0.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.0",
     "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.0",
     "sweetalert2": "^10.10.1"
   },
